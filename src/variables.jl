@@ -180,8 +180,8 @@ x
 y
 
 2×2 Array{Operation,2}:
-    y₂̒₁() y₂̒₆()
-    y₃̒₁() y₃̒₆()
+ y₂ˏ₁  y₂ˏ₆
+ y₃ˏ₁  y₃ˏ₆
 
 # also works for dependent variables
 @parameters t; @variables z[1:3](t);
